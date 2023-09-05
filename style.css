@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+}
+
+.intoo1 {
+    flex: 2;
+}
+
+.intoo2 {
+    flex: 1;
+    font-size: 18px;
+    align-items: flex-end;
+}
+
+.intoo3 {
+    flex: 4;
+}
+
+.wechat_image {
+    width: 200px;
+    height: 250px;
+}
+
+.content {
+    display: flex;
+}
+
+.learn {
+    flex: 1;
+}
+
+.stupid {
+    flex: 1;
+}
